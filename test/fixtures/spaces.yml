@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  spacetype: MyString
+  location: MyString
+  views: MyString
+  food: false
+  alcohol: false
+  wifi: false
+  venue_id: 
+
+two:
+  spacetype: MyString
+  location: MyString
+  views: MyString
+  food: false
+  alcohol: false
+  wifi: false
+  venue_id: 
