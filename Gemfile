@@ -10,6 +10,7 @@ gem 'spring', :group => :development
 
 gem 'sqlite3'
 
+gem 'bcrypt'
 
 
 # To use ActiveModel has_secure_password

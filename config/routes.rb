@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+
+  post '/login', to: 'auth#login'
+  post '/register', to: 'auth#register'
+  post '/logout', to: 'auth#logout'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
